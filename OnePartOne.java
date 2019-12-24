@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-class One {
+class OnePartOne {
     public static void main(String[] args) {
         File file = new File("files/one-numbers.txt");
         Scanner sc = null;
